@@ -16,7 +16,7 @@ body {
 	}
 
 	.nav-items{
-		@apply text-base text-dark py-2 mx-8 flex group-hover:text-primary md:mx-3
+		@apply text-base text-dark font-semibold py-2 mx-8 flex group-hover:text-primary md:mx-3
 	}
 }
 
